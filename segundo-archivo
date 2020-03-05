@@ -1,0 +1,8 @@
+Con este archivo voy a probar actualizar una rama de mi repositorio 
+con los cambios ocurridos en el original.
+Esta vez ya tengo en mi copia originada por el fork, la rama "new-branch",
+es decir, tanto el original como mi copia tienen "new-branch"
+
+
+Se supone no debería actualizar, sino debería ser por sobreescritura
+(reemplazo de la rama) utilizando el comando "rebase" > git rebase upstream [URL] > url del repo original
