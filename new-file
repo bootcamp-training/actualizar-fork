@@ -1,0 +1,9 @@
+En el repositorio "actualizar-fork" he creado una nueva rama llamada "new-branch". 
+En ella dentro este nuevo archivo llamado "new-file" en donde estoy escribiendo 
+la descripción del proceso de probar cambios en un repositorio original y ver que
+dificultades tienen para actualizar sus propias copias que obtuvieron mediante fork.
+
+2 pruebas, cada una un tipo de cambio:
+
+1.nueva rama
+2.un nuevo archivo dentro de la rama
